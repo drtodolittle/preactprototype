@@ -1,0 +1,31 @@
+body {
+	margin:16px;
+}
+.mt16px {
+	margin-top:16px;
+}
+.mt8px {
+	margin-top:8px;
+}
+.mr16px {
+	margin-right:16px;
+}
+.mb16px {
+	margin-bottom:16px;
+}
+.col-red {
+	color: #ee0000;
+}
+.col-lightgrey {
+	color: #c0c0c0;
+}
+.col-green {
+	color: #00aa00;
+}
+.welcome {
+	margin-top: 6px;
+	margin-left: 4px;
+}
+.mo {
+	cursor : pointer;
+}
